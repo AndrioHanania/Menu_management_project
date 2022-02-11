@@ -1,0 +1,6 @@
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\bin\Debug\Menus.Delegates.dll.config
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\bin\Debug\Menus.Delegates.dll
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\bin\Debug\Menus.Delegates.pdb
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\obj\Debug\Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\obj\Debug\Menus.Delegates.dll
+C:\Users\andrio\Desktop\Menu management project\Menus.Delegates\obj\Debug\Menus.Delegates.pdb

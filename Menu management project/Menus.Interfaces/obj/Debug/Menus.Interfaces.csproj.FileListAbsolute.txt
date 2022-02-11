@@ -1,0 +1,6 @@
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll.config
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\bin\Debug\Menus.Interfaces.pdb
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\obj\Debug\Menus.Interfaces.dll
+C:\Users\andrio\Desktop\Menu management project\Menus.Interfaces\obj\Debug\Menus.Interfaces.pdb
